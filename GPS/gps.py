@@ -1,4 +1,4 @@
-#https://www.cyberpunk.rs/building-raspberry-pi-gui
+#https://www.engineersgarage.com/articles-raspberry-pi-neo-6m-gps-module-interfacing/
 
 import serial              
 from time import sleep
